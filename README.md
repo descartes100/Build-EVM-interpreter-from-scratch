@@ -1,6 +1,6 @@
 # Build-EVM-from-scratch
 
-To better understand EVM, I build an EVM interpretor from scratch while reading the [Ethereum yellow paper](https://github.com/ethereum/yellowpaper).
+To better understand EVM, I build an EVM interpreter from scratch while reading the [Ethereum yellow paper](https://github.com/ethereum/yellowpaper).
 
 # Example Usage
 
